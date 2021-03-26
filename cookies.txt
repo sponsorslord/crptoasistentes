@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+square.site	TRUE	/	FALSE	1999999999	_savt	b8e394c5-d87a-45c2-85f8-da77a7f11f6d
+square.site	TRUE	/	FALSE	1999999999	SameSite	None
+squareup.com	TRUE	/	FALSE	1999999999	_savt	c2f9fefa-0ec4-4300-9b05-c11ae5d89910
+squareup.com	TRUE	/	FALSE	1999999999	SameSite	None
+

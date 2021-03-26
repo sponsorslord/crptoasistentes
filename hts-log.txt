@@ -1,0 +1,27 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 25 Mar 2021 23:40:51 at https://mycryptoadvisor.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://mycryptoadvisor.com/ -O1 "C:\Users\terai\Desktop\sitio bitcoins\Bitcoin Proyecto" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:41:51	Warning: 	Moved Permanently for https://mycryptoadvisor.com/?p=126
+23:41:51	Warning: 	File has moved from https://mycryptoadvisor.com/?p=126 to https://mycryptoadvisor.com/about-us/
+23:41:51	Warning: 	Moved Permanently for https://mycryptoadvisor.com/?p=129
+23:41:51	Warning: 	File has moved from https://mycryptoadvisor.com/?p=129 to https://mycryptoadvisor.com/services/
+23:41:51	Warning: 	Moved Permanently for https://mycryptoadvisor.com/?p=133
+23:41:51	Warning: 	File has moved from https://mycryptoadvisor.com/?p=133 to https://mycryptoadvisor.com/events/
+23:41:51	Warning: 	Moved Permanently for https://mycryptoadvisor.com/?p=105
+23:41:51	Warning: 	File has moved from https://mycryptoadvisor.com/?p=105 to https://mycryptoadvisor.com/faqs/
+23:41:51	Warning: 	Moved Permanently for https://mycryptoadvisor.com/?p=86
+23:41:51	Warning: 	File has moved from https://mycryptoadvisor.com/?p=86 to https://mycryptoadvisor.com/contact/
+23:41:51	Warning: 	Moved Permanently for https://mycryptoadvisor.com/?p=664
+23:41:51	Warning: 	File has moved from https://mycryptoadvisor.com/?p=664 to https://mycryptoadvisor.com/2020/10/01/september-2020/
+23:41:51	Warning: 	Moved Permanently for https://mycryptoadvisor.com/?p=611
+23:41:51	Warning: 	File has moved from https://mycryptoadvisor.com/?p=611 to https://mycryptoadvisor.com/2020/08/29/august-2020/
+23:41:51	Warning: 	Moved Permanently for https://mycryptoadvisor.com/?p=573
+23:41:51	Warning: 	File has moved from https://mycryptoadvisor.com/?p=573 to https://mycryptoadvisor.com/2020/08/13/demystifying-cryptocurrency/
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 0 seconds : 154 links scanned, 145 files written (9468472 bytes overall) [7462746 bytes received at 124379 bytes/sec], 2564264 bytes transferred using HTTP compression in 78 files, ratio 17%, 5.9 requests per connection
+(No errors, 16 warnings, 0 messages)
